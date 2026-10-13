@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa+One:ital@0;1&display=swap');
+
+nav {
+  background-color: rgb(49, 100, 255);
+  height: 60px;
+  width: 1475px;
+  max-width: 2000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 12px;
+  border-radius: 15px;
+  font-family: "Changa One", sans-serif;
+  font-size: large;
+}
+
+li {
+padding: 20px;
+list-style-type: none;
+}
+
+body {
+  background-color: rgb(235, 253, 255);
+  font-family: "Changa One", sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+
+
+.primary_logo {
+margin: 0 12px;
+color: white;
+}
+
+.bullet {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  color: white;
+}
+
+.bullet1:hover {
+  color: rgb(254, 254, 254);
+  text-decoration: underline;
+  text-decoration-color: rgb(254, 254, 254);
+}
+
+.bullet2:hover {
+  color: rgb(254, 254, 254);
+  text-decoration: underline;
+  text-decoration-color: rgb(254, 254, 254);
+}
+
+.bullet3:hover {
+  color: rgb(254, 254, 254);
+  text-decoration: underline;
+  text-decoration-color: rgb(254, 254, 254);
