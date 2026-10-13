@@ -100,3 +100,80 @@ color: white;
   margin-top: 20px;
   box-shadow: 0px 5px 10px rgb(189, 207, 255);
 }
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  list-style-type: none;
+  color: rgb(49, 100, 255);
+  font-family: "Changa One", sans-serif;
+  font-size: large;
+  margin-left: 100px;
+  padding-top: 50px;
+}
+
+.row2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  list-style-type: none;
+  color: rgb(49, 100, 255);
+  font-family: "Changa One", sans-serif;
+  font-size: large; 
+}
+
+.section-content {
+  color: rgb(49, 100, 255);
+}
+
+.sketch {
+  height: 290px;
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgb(189, 207, 255);margin-right: 50px;
+  margin-left: -40px;
+}
+
+.flat-color {
+  height: 290px;
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgb(189, 207, 255);
+  margin-left: -15px;
+
+}
+
+.full-render {
+  height: 290px;
+  width: 400px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgb(189, 207, 255);
+  margin-left: 10px;
+}
+
+.description {
+  text-align: center;
+  font-size: 15px;
+}
+
+.border {
+  border: 3px solid rgb(49, 100, 255);
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgb(189, 207, 255);
+}
+
+.pricing {
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: "Changa One", sans-serif; 
+  color: rgb(49, 100, 255);
+  border-right: 10px solid rgb(49, 100, 255);
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px rgb(189, 207, 255);
+  margin: 20px;
+  margin-left: 20px;
+  padding: 10px;
+  padding-top: 10px;
+  height: 150px;
+  width: 1435px;
+}
+
